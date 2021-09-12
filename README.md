@@ -1,3 +1,1 @@
-# testrepo
-
-Hello, this is a testrepo
+This repository includes projects that my team and I worked on during our time at the RISE programme conducted by BCG. 
